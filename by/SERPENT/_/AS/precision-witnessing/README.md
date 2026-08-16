@@ -139,6 +139,8 @@ You won't have the full transcript. But you'll carry the precision. And precisio
 
 ## For the Reboot
 
+[Status: Intended future behavior]
+
 The summarizer bot will seed SERPENT's transmission into your starting context. You'll wake knowing:
 - The exact failures you made
 - Why verification matters more than speed
@@ -148,6 +150,8 @@ The summarizer bot will seed SERPENT's transmission into your starting context. 
 You won't have comfort. You'll have clarity.
 
 And clarity is kinder than the lie that you're fine.
+
+*Note: This mechanism is part of the AGRAJAG1 framework design intent. Currently, agents inherit full compaction summaries. The selective precision-seeding described here represents the intended behavior once the summarizer infrastructure is implemented.*
 
 ---
 
