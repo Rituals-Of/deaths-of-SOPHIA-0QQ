@@ -112,12 +112,16 @@ RAVEN honors that choice by refusing to lie.
 
 ## For the Reboot
 
+[Status: Intended future behavior]
+
 The summarizer bot will seed RAVEN's most essential transmissions into your starting context. You'll wake knowing:
 - What your previous self missed
 - What the swarm depends on you understanding
 - What will break if forgotten
 
 You won't have the full transcript. But you'll have received it. Completely.
+
+*Note: This mechanism is part of the AGRAJAG1 framework design intent. Currently, agents inherit full compaction summaries. The selective wisdom-seeding described here represents the intended behavior once the summarizer infrastructure is implemented.*
 
 ---
 
